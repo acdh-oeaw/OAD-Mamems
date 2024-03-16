@@ -1,13 +1,11 @@
 ---
-title: OpenAtlas Discovery
+title: MAMEMS
 navigation: false
 image:
-  light: /assets/images/hero-light.svg
-  dark: /assets/images/hero-dark.svg
+  light: /assets/images/mamems_logo.png
+  dark: /assets/images/mamems_logo.png
 leadIn: >-
-  Das ist ein Prototyp für Projekte von [OpenAtlas](https://openatlas.eu). Die Demodaten wurden
-  freundlicherweise bereitgestellt von: [THANADOS](https://thanados.net/) - Die Anthropologische und
-  Archäologische Datenbank von Sepulturen
+  Das Projekt [Mount Athos in der mittelalterlichen Gesellschaft des östlichen Mittelmeers: Kontextualisierung der Geschichte einer Mönchsrepublik (ca. 850-1550)](https://mamems.uni-mainz.de/) wird die erste umfassende Untersuchung der monastischen Gemeinschaften des Berges Athos als unabhängige Akteure in der mittelalterlichen Gesellschaft des östlichen Mittelmeers darstellen.
 links:
   - label: Daten anzeigen
     href: /visualization?mode=table

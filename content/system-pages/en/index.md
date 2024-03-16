@@ -1,12 +1,12 @@
 ---
-title: OpenAtlas Discovery
+title: MAMEMS
 navigation: false
 image:
-  light: /assets/images/hero-light.svg
-  dark: /assets/images/hero-dark.svg
+  light: /assets/images/mamems_logo.png
+  dark: /assets/images/mamems_logo.png
 leadIn: >-
-  This is a prototype for [OpenAtlas](https://openatlas.eu) projects. Demo data kindly provided by:
-  [THANADOS](https://thanados.net/) - The Anthropological and Archaeological Database of Sepultures
+  The [Mount Athos in Medieval Eastern Mediterranean Society: Contextualizing the History of a Monastic Republic (ca. 850-1550)](https://mamems.uni-mainz.de/) project will constitute the first comprehensive examination of the monastic communities of Mount Athos as independent actors in medieval Eastern Mediterranean society.
+
 links:
   - label: View data
     href: /visualization?mode=table
