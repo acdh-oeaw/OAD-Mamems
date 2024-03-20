@@ -25,7 +25,6 @@ i18n:
   structure: multiple_folders
   locales:
     - en
-    - de
   default_locale: en
 collections:
   - name: config

@@ -30,7 +30,7 @@ const schema = v.object({
 	network: v.object({
 		excludeSystemClasses: v.array(v.string()),
 	}),
-	defaultLocale: v.picklist(["de", "en"]),
+	defaultLocale: v.picklist(["en"]),
 	fullscreen: v.boolean(),
 	imprint: v.picklist(["acdh-ch", "custom", "none"]),
 	logos: v.object({
