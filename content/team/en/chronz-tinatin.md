@@ -1,6 +1,7 @@
 ---
 firstName: Tinatin
 lastName: Chronz
+academicTitle: Dr.
 image: /assets/images/team/chronz-für-mainz.jpeg
 ---
 From 1989 to 2004 Dr. Chronz studied Russian Philology at the National Iv. Javakhishvili University in Tbilisi (Georgia). Over the period 2006–2009 she pursued doctoral studies in Slavic Studies, Liturgical und Eastern Christian Studies at the University of Bonn, culminating in 2012 with a doctorate (Dr. phil.) granted by the Philosophical Faculty of the University of Bonn, with a dissertation entitled “The Celebration of the Holy Oil according to the Rite of Jerusalem. With the Text of the Slavic Codex 21 of the Russian National Library in St. Petersburg as well as Georgian Translations of Palestinian and Constantinopolitan Sources. Introduction, Edition, Commentary (Supervisors: Prof. Dr. Hans Rothe, Priv. Doz. Dr. Heinzgerd Brakmann). [More information about the book can be found here.](https://studienjahr.de/forum-studienjahr/wissenschaftliche-buchreihe/band-18)
