@@ -3,25 +3,4 @@ title: About the project
 navigation:
   title: About the project
 ---
-Elit anim cillum labore tempor Lorem irure voluptate qui nisi. Nostrud ut incididunt sint laborum ad
-est enim do qui. Occaecat labore ea adipisicing est esse enim amet irure non. Non ex et magna elit
-consequat cupidatat. Officia velit aute voluptate velit minim ullamco. Enim laboris irure sunt
-aliquip reprehenderit consequat cillum labore eiusmod ad cupidatat aliqua consectetur magna.
-
-Eiusmod excepteur amet id aliqua nostrud fugiat excepteur laboris elit nulla sunt adipisicing. Magna
-officia eu voluptate ad amet enim laboris laborum. Ut occaecat exercitation cillum ullamco veniam
-consequat ea Lorem veniam. Tempor officia pariatur est tempor aliquip exercitation reprehenderit
-aliquip cillum in enim pariatur amet. Duis anim cupidatat nulla tempor commodo magna pariatur
-laboris irure.
-
-Velit irure eu voluptate ipsum nulla incididunt. Consectetur veniam irure minim ea sint proident
-minim nisi commodo culpa dolore ex. Cillum nostrud voluptate commodo tempor ut consectetur. Dolor
-cillum esse nostrud eu veniam pariatur eiusmod eiusmod enim aliquip Lorem aliqua nulla exercitation.
-Exercitation non fugiat ea dolore nulla. Sunt esse eiusmod qui ea. Ipsum dolore non cupidatat velit
-commodo et pariatur.
-
-Ea reprehenderit Lorem cillum exercitation id est officia culpa irure ipsum fugiat tempor ullamco.
-Elit tempor labore occaecat culpa do tempor tempor. Eiusmod anim esse tempor deserunt deserunt aute
-aliquip eu cupidatat ad qui incididunt mollit est. Nisi ad nisi pariatur voluptate irure minim culpa
-voluptate aliqua et. Velit magna consequat incididunt dolor nulla consectetur sunt pariatur enim
-laborum culpa deserunt.
+MAMEMS constitutes the first comprehensive examination of the monastic communities of Mount Athos as independent actors in medieval Eastern Mediterranean Society. This “monastic republic” was intimately connected with the Byzantine Empire, the various Orthodox principalities of the Balkans and Caucasus, South Italy, as well with the Ottoman Empire. By taking advantage of considerable advances in subfields like prosopography, analyzing and making available a set of sources (lists of commemoration) that are either poorly studied or unedited, and by bringing together an interdisciplinary team (a Byzantinist, Slavicist and Kartvelologist) under the direction of the PI, MAMEMS will transform the way the Holy Mountain is viewed within scholarship and the general public via a triad of leitmotifs: wealth, ethnicity and gender (WEG). The exploration of these topics will be undergirded by the creation of a prosopographical database, Prosopographika Athonika, containing entries for every monk to have resided on the Holy Mountain, every Athonite benefactor and every person to have visited there from ca. 850 to 1550, that is from the time of the first surviving documents in the Athonite archives until the founding of the last of the major Athonite houses, Stavronikita. This database will finally allow a concrete analysis of how medieval Mount Athos was embedded within wider networks of economic interests, church leadership, intellectual exchange and patronage.
