@@ -1,0 +1,13 @@
+---
+firstName: "Kirill A. "
+lastName: Maksimovič
+academicTitle: Dr. habil.
+image: /assets/images/team/kirill.jpg
+---
+After studying Classical Philology at the Lomonosov Moscow State University, Dr. Maksimovič completed a doctorate at the Russian Academy of Sciences in Moscow in 1996 on “The Legal Terminology in the Old Russian Translation of the Pandects of Nikon of the Black Mountain (11th Century).” He finished his habilitation at the same institution with a study on “The Oldest Slavic Translations of the Byzantine Lawbooks of the Ecloga and Collectio L Titulorum and Their Reception in Old Russia” in 2008.
+
+Since 1989 he has been a contributing member of the Institute for the Russian Language at the Russian Academy of Sciences in Moscow. Dr. Maksimovič has been a fellow of the George Soros Foundation, the INTAS Foundation (EU) and the Alexander von Humboldt Foundation (Germany). His activity as a lecturer and researcher has taken him to Saint Tikhon's Orthodox University and the V.V. Vinogradov Institute for the Russian Language at the Russian Academy of Sciences, both in Moscow, as well as the State University of Krasnojarsk. From 1992 to 2003 he was a regular guest researcher and fellow of the Göttingen Academy of Sciences at the Max Planck Institute for Legal History in Frankfurt, as part of the research group on the edition and analysis of Byzantine legal texts, and it was there that he was employed as a full-time researcher from March 2014 to December 2020. 
+
+Within the MAMEMS project he is the resident Slavicist and as such is responsible for sources related to Mount Athos in Slavic languages. As part of his project duties, he is currently completing an edition, commentary and translation of the oldest Athonite commemorative list written in Slavonic. 
+
+Dr. Maksimovič’s research interests include the legal history of Byzantium and Rus as well as medieval Greek and Slavonic philology and codicology. Among his most important publications are an edition (in Old Russian and Greek) of the Pandects of the eleventh-century Byzantine canonist Nikon of the Black Mountain (Pandekty Nikona Cernogorca: v drevnerusskom perevode XII veka (juridiceskie teksty). Moscow 1998); a study of the medieval Slavonic lawbook the Law for Judging the People (ZAKONЪ SUDЬNYJ LJUDЬMЪ. Istočnikovedčeskie i lingvističeskie aspekty issledovanija slavjanskogo juridičeskogo pamjatnika. Moscow 2004); and most recently the twelfth-century canonist’s Alexios Aristenos’ commentary on the Synopsis canonum (Alexios Aristenos. Kommentar zur Synopsis canonum. Hrsg. von Spyros Troianos, Eleftheria Papagianni, Ludwig Burgmann und Kirill Maksimovič. Berlin-Boston 2019).
