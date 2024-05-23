@@ -42,7 +42,7 @@ const sorted = computed(() => {
 
 <template>
 	<template v-if="sorted">
-		<ul class="grid grid-cols-2 gap-8 py-4" role="list">
+		<ul class="prose grid gap-8 py-4" role="list">
 			<li v-for="member of sorted" :key="member._id">
 				<article class="prose prose-sm">
 					<div
