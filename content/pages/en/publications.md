@@ -15,9 +15,9 @@ navigation:
   * Tinatin Chronz: "Liturgical Commemoration and Its Material Value in the Georgian ‘Book of Commemorations (*Agape*s)’ of Iviron Monastery" (6,200 words).
   * Kirill A. Maksimovič: "General Legal Norms of Acquiring and Administering Monastic Property in Byzantium and Their Implementation on Mount Athos from the 12th – Early 14th Centuries: The Case of Hilandar" (10,700 words).
   * Vanessa R. de Obaldía: "*Servet-i Aynaroz*: Interpreting Ottoman Documents as Sources of Athonite Wealth" (8,300 words).
-  *  Alexander Watzinger with Stefan Eichert and Nina Richards: "OpenAtlas - An Open-source Application to Map Historical data with CIDOC CRM" (4,300 words)
+  * Alexander Watzinger with Stefan Eichert and Nina Richards: "OpenAtlas - An Open-source Application to Map Historical data with CIDOC CRM" (4,300 words)
 
-**Project Publications Submitted in other Venues for Publication**
+**Project Publications Submitted to Other Venues for Publication**
 
 * Zachary Chitwood, “Dining with the Dead: The Middle Byzantine Commemorative Banquet (Totenmahl)”, in Jennifer Liebsch, Hildegard Poeschel and Michael Grünbart (eds.), *Vormoderne Totenfürsorge. Perspektiven einer lebendigen Praxis* (submitted manuscript, 10,400 words, to appear as an open-access volume in the series “Das Mittelalter. Beihefte”, Heidelberg University Publishing). 
 * Zachary Chitwood, “Ethnicity at the Eye of the World: Negotiating Cultural Differences on Late Medieval Mount Athos (Twelfth to Fifteenth Centuries).” In Daniel Otlean (ed.), *Foreign Monks in Byzantium* (submitted manuscript, 10,000 words, to appear with Peeters).  
@@ -26,7 +26,7 @@ navigation:
 
 **2024**
 
-* “Connecting Courts and Cloisters: Memoria, Sovereign Patronage and Annuity Endowments in the Byzantine World”, in Toru Miura (ed.), *Comparative Study of Donation Strategy*. Toyo Bunko Research Library 24. Tokyo: Toyo Bunko 2024: 13-32. 
+* Zachary Chitwood, “Connecting Courts and Cloisters: Memoria, Sovereign Patronage and Annuity Endowments in the Byzantine World”, in Toru Miura (ed.), *Comparative Study of Donation Strategy*. Toyo Bunko Research Library 24. Tokyo: Toyo Bunko 2024: 13-32. 
 
 **2023**
 
