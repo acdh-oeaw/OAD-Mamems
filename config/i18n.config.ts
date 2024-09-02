@@ -12,7 +12,7 @@ export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = project.defaultLocale;
 
 export const localesMap = {
-	en: { code: "en", iso: "en", files: ["en/common.json", "en/project.json"] },
+	en: { code: "en", iso: "en", files: ["en/common.json", "en/project.json", "en/crm.json"] },
 } satisfies Record<Locale, LocaleObject>;
 
 export type Messages = typeof en & typeof projectEn;

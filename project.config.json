@@ -45,9 +45,9 @@
 	"imprint": "acdh-ch",
 	"logos": {
 		"light": "/assets/images/mamems_logo.png",
-		"dark": "/assets/images/mamems_logo_inv.png",
+		"dark": "/assets/images/mamens_logo_inv.png",
 		"withTextLight": "/assets/images/mamems_logo.png",
-		"withTextDark": "/assets/images/mamems_logo_inv.png"
+		"withTextDark": "/assets/images/mamens_logo_inv.png"
 	},
 	"twitter": "@openatlas_eu"
 }

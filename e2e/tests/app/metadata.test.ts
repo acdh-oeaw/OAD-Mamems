@@ -26,16 +26,10 @@ test("should set document title on not-found page", async ({ createI18n, page })
 	await expect(page).toHaveTitle(
 		[i18nEn.t("NotFoundPage.meta.title"), i18nEn.t("Metadata.name")].join(" | "),
 	);
-
-	const i18nDe = await createI18n("de");
-	await page.goto("/de/unknown");
-	await expect(page).toHaveTitle(
-		[i18nDe.t("NotFoundPage.meta.title"), i18nDe.t("Metadata.name")].join(" | "),
-	);
 });
 
 test("should disallow indexing of not-found page", async ({ page }) => {
-	for (const pathname of ["/unknown", "/de/unknown"]) {
+	for (const pathname of ["/unknown"]) {
 		await page.goto(pathname);
 
 		const ogTitle = page.locator('meta[name="robots"]');
